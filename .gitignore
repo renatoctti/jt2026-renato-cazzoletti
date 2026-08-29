@@ -1,0 +1,9 @@
+# Roteiro do video: material de apoio pessoal, nao faz parte da entrega
+roteiro-video.md
+
+# Python
+__pycache__/
+*.pyc
+
+# Lixo de shell no Windows
+*.stackdump
