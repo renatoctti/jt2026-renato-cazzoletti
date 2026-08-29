@@ -1,4 +1,4 @@
-**🎥 Vídeo (3 min):** `<COLAR AQUI O LINK DO GOOGLE DRIVE — compartilhamento em "qualquer pessoa com o link">`
+**🎥 Vídeo (3 min): https://drive.google.com/file/d/1gwguIy2QwmltcSwvvhmZ17jQUKKpjxiJ/view?usp=sharing**
 
 # Recomendação de investimento — Itapema (SC)
 
